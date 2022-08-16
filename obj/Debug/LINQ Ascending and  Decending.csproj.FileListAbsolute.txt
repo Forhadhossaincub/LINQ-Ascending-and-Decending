@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\LINQ Ascending and  Decending\LINQ Ascending and  Decending\bin\Debug\LINQ Ascending and  Decending.exe.config
+C:\Users\Administrator\Desktop\LINQ Ascending and  Decending\LINQ Ascending and  Decending\bin\Debug\LINQ Ascending and  Decending.exe
+C:\Users\Administrator\Desktop\LINQ Ascending and  Decending\LINQ Ascending and  Decending\bin\Debug\LINQ Ascending and  Decending.pdb
+C:\Users\Administrator\Desktop\LINQ Ascending and  Decending\LINQ Ascending and  Decending\obj\Debug\LINQ Ascending and  Decending.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\LINQ Ascending and  Decending\LINQ Ascending and  Decending\obj\Debug\LINQ Ascending and  Decending.exe
+C:\Users\Administrator\Desktop\LINQ Ascending and  Decending\LINQ Ascending and  Decending\obj\Debug\LINQ Ascending and  Decending.pdb
